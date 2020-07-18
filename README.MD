@@ -1,4 +1,5 @@
-![Angel Young Banner](Angel_Young.png)
+<img src="Angel_Young.png" alt="Angel Young Banner">
+
 <hr>
 
 # About Me
@@ -17,13 +18,21 @@ I have experience in HTML, CSS, SASS, Bootstrap, JavaScript, ReactJS, and Gatsby
 
 [Twitter](https://www.twitter.com/tornadosong)
 
-[Twitch](https://www.twitch.tv/angelyoung24)
+[Twitch](https://www.twitch.tv/angelyoung24) 
 
 <hr>
 
-### Counter
+# Updates!
 
-![Visitor Count](https://profile-counter.glitch.me/angelyoung24/count.svg)
+#### 07/17/2020
+
+<ul>
+<li>Will be back on Twitch soon. Real life got in the way.</li>
+<li>Currently working on: 
+
+[No Hun Repo](https://www.github.com/angelyoung24/no-hun),  a Gatsby anti-mlm app</li>
+</ul>
+
 
 
 
