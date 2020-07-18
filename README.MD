@@ -1,4 +1,4 @@
-![Angel Young Banner](./Angel_Young.png)
+![Angel Young Banner](Angel_Young.png)
 <hr>
 
 # About Me
