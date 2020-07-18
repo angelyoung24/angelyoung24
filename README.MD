@@ -1,4 +1,5 @@
-<img src="Angel_Young.png" alt="Angel Young Banner">
+
+![Angel Young Banner](./images/Angel_Young.png)
 
 <hr>
 
