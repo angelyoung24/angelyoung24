@@ -31,8 +31,9 @@ I have experience in HTML, CSS, SASS, Bootstrap, JavaScript, ReactJS, and Gatsby
 <li>Will be back on Twitch soon. Real life got in the way.</li>
 <li>Currently working on:</li> 
 </ul>
+<br>
 [No Hun Repo](https://www.github.com/angelyoung24/no-hun),  a Gatsby anti-mlm app for [100 Days of Projects](https://100daysofprojects.carrd.co/)
-
+<br>
 Working on a tech blog for [Toastmasters](https://www.toastmasters.org) and [100 Days of Projects](https://100daysofprojects.carrd.co/)
 
 
