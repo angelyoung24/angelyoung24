@@ -27,10 +27,10 @@ I have experience in HTML, CSS, SASS, Bootstrap, JavaScript, ReactJS, and Gatsby
 
 #### 07/26/2020
 
-<ul>
-<li>Will be back on Twitch soon. Real life got in the way.</li>
-<li>Currently working on:</li> 
-</ul>
+
+Will be back on Twitch soon. Real life got in the way. Will likely stream on a Friday or Sunday
+<br>
+Currently working on:
 <br>
 [No Hun Repo](https://www.github.com/angelyoung24/no-hun),  a Gatsby anti-mlm app for [100 Days of Projects](https://100daysofprojects.carrd.co/)
 <br>
