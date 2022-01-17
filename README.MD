@@ -3,6 +3,16 @@
 
 <hr>
 
+# Updates!
+
+#### 01/17/2022
+
+I am no longer actively pursuing a career in tech. I will still do this as a hobby every once in awhile. 
+
+Thank you to the people who tried to help me get a job in tech and a big ol' fat one to those who never wanted me in tech to begin with.
+
+<hr>
+
 # About Me
 
 I am a Front-End Developer seeking full time work. I am also open to teaching oppuritunities. I completed a bootcamp called Chingu where I worked with a remote team from different time zones I also volunteer for Code for Philly, TechGirlz, and Philly Tech Sistas .
@@ -13,28 +23,12 @@ I have experience in HTML, CSS, SASS, Bootstrap, JavaScript, ReactJS, and Gatsby
             
 # Websites/Social Media
 
-[Website](https://www.angelyoung.design)
-
 [GitHub](https://www.github.com/angelyoung24)
 
 [Twitter](https://www.twitter.com/tornadosong)
 
-[Twitch](https://www.twitch.tv/angelyoung24) 
-
 <hr>
 
-# Updates!
-
-#### 07/26/2020
-
-
-Will be back on Twitch soon. Real life got in the way. Will likely stream on a Friday or Sunday
-<br>
-Currently working on:
-<br>
-[No Hun Repo](https://www.github.com/angelyoung24/no-hun),  a Gatsby anti-mlm app for [100 Days of Projects](https://100daysofprojects.carrd.co/)
-<br>
-Working on a tech blog for [Toastmasters](https://www.toastmasters.org) and [100 Days of Projects](https://100daysofprojects.carrd.co/)
 
 
 
